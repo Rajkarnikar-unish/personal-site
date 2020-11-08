@@ -145,6 +145,12 @@ header{
     max-width: 60px;
 }
 
+.logo1{
+    max-width: 120px;
+    margin: 0 auto;
+    padding-bottom: 1em;
+}
+
 .nav{
     position: fixed;
     background: var(--clr-dark);
